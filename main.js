@@ -1,0 +1,4 @@
+var num1 = prompt("Enter a value for num1", 9);
+var num2 = prompt("Enter a value for num2", 9);
+
+// Write your code below
